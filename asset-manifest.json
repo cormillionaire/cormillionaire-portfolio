@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cormillionaire-portfolio/static/css/main.656b4e37.css",
+    "main.js": "/cormillionaire-portfolio/static/js/main.cd603b9d.js",
+    "index.html": "/cormillionaire-portfolio/index.html",
+    "main.656b4e37.css.map": "/cormillionaire-portfolio/static/css/main.656b4e37.css.map",
+    "main.cd603b9d.js.map": "/cormillionaire-portfolio/static/js/main.cd603b9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656b4e37.css",
+    "static/js/main.cd603b9d.js"
+  ]
+}
